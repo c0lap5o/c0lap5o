@@ -1,16 +1,16 @@
-
 ### 🌱 About Me
+I'm a dedicated and slightly crazy developer with a passion for coding. I love solving good bug mysteries that tickle my brain, and I'll go to the 15th page of a Google search to crack them. My ideas are worth a million dollars, and if you happen to hear one, don't let it escape – it might make you rich!
+
+Always eager to learn something new and put it into practice, I create things with code that are uniquely mine, and I love every bit of it. Sometimes it feels like an action movie, navigating through perils like bugs, configurations, architecture decisions, and deployment challenges. Even if I don't know something, I'm committed to learning it and reaching the point of "conclusion."
+
+And that's my coder way.
+
 ![1724246343919](https://github.com/user-attachments/assets/0c4e159a-318d-4267-bf74-5bb6fe08a05b)
 
-
-I'm a dedicated and slightly crazy developer with a passion for coding, nature, and outdoor adventures.
-I really enjoy my free time taking my dog for a walk, playing music or even crafting it I also love camping
-and make outdoor activities.
-
-- 💻 Developer passionate about Java, JavaScript, HTML, and CSS
-- 🌱 Currently learning Angular and AWS
-- 🎓 Completed Code for All bootcamp
-- 📚 Working towards AWS certification, Portfolio in Angular
+- 💻 Developer passionate about Java, JavaScript, HTML, and CSS.
+- 🌱 Currently learning Angular and AWS.
+- 🎓 Completed Code for All bootcamp.
+- 📚 Working towards AWS certification; portfolio in Angular.
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B01?logo=openjdk&logoColor=black)
@@ -31,7 +31,6 @@ and make outdoor activities.
 ## 🔭 Current Projects
 ---
 [**Library Management System Web App**](https://github.com/c0lap5o/librarymanagementwebapp)
-
 
 ![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=c0lap5o&repo=librarymanagementwebapp)
 
@@ -60,7 +59,6 @@ and make outdoor activities.
 
 ![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=c0lap5o&repo=simplenodewebserver)
 
-
 **Stack**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -78,13 +76,14 @@ and make outdoor activities.
 ## 🤝 Open to Collaborate
 I'm always excited to work on interesting projects! Let's create something amazing together.
 
-
 ## 🌟 Fun Facts
-- 🏕️ Love camping and the great outdoors
-- 🎵 Passionate about playing electronic dance music
-- 🎳 Skilled roller skater
-- 🌱 Knowledgeable in agriculture
-- 😄 Known for frequent burping and neck cracking (It's not a bug It's a feature!)
+- 🏕️ Love camping and the great outdoors.
+- 🎵 Passionate about playing electronic dance music.
+- 🎳 Skilled roller skater.
+- 🌱 Knowledgeable about agriculture.
+- 😄 Known for frequent burping and neck cracking (It's not a bug; it's a feature!)
+- 🌲 I love to climb trees.
+- 🧑‍🍳 Excellent cook.
 
 ## 📫 How to reach me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/c0lap5o)
@@ -94,5 +93,3 @@ I'm always excited to work on interesting projects! Let's create something amazi
 > "Good code is code that is easy to change. Code tends to change until it is no longer easy to change. All code becomes bad code."
 
 > "One of my most productive days was throwing away 1000 lines of code."
-
----
