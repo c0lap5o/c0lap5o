@@ -1,4 +1,7 @@
+
 ### 🌱 About Me
+![1724246343919](https://github.com/user-attachments/assets/0c4e159a-318d-4267-bf74-5bb6fe08a05b)
+
 
 I'm a dedicated and slightly crazy developer with a passion for coding, nature, and outdoor adventures.
 I really enjoy my free time taking my dog for a walk, playing music or even crafting it I also love camping
@@ -16,6 +19,7 @@ and make outdoor activities.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
+![Apache](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?&logo=apachetomcat&logoColor=black)
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white)
@@ -37,6 +41,7 @@ and make outdoor activities.
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?&logo=apachetomcat&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
 
 ---
