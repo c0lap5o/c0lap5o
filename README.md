@@ -5,12 +5,12 @@ Always eager to learn something new and put it into practice, I create things wi
 
 And that's my coder way.
 
-![1724246343919](https://github.com/user-attachments/assets/0c4e159a-318d-4267-bf74-5bb6fe08a05b)
-
 - 💻 Developer passionate about Java, JavaScript, HTML, and CSS.
 - 🌱 Currently learning Angular and AWS.
 - 🎓 Completed Code for All bootcamp.
 - 📚 Working towards AWS certification; portfolio in Angular.
+
+![1724246343919](https://github.com/user-attachments/assets/0c4e159a-318d-4267-bf74-5bb6fe08a05b)
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B01?logo=openjdk&logoColor=black)
